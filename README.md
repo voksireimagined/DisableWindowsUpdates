@@ -1,2 +1,2 @@
 # DisableWindowsUpdates
-This disables windows updates permanently
+- This disables windows updates permanently
